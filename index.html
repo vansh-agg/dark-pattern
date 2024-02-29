@@ -10,18 +10,30 @@
   </head>
   <body>
     <div id="app">
-      <h1 class="head">Pixet</h1>
+      <h1 class="head">DarkBuster</h1>
       <form id="extract-form" class="url-form-class">
         <div class="url-box-container glass">
           <input
             type="url"
             id="url-input"
-            placeholder="Fetching..."
+            placeholder="Enter URL of website to check..."
             class="urlClass"
             required
           />
         </div>
         <button type="submit" class="url-submit">Fetch</button>
+      </form>
+      <form id="extract-review-form" class="url-form-class" action="/review" method="post">
+        <div class="url-box-container glass">
+          <input
+            type="review"
+            id="review-input"
+            placeholder="Enter review to check authenticity..."
+            class="urlClass"
+            required
+          />
+        </div>
+        <button type="submit" class="url-submit">Check</button>
       </form>
       <!-- <div class="infoBoxContainer">
         <div class="infoBoxChildContainer">
@@ -61,6 +73,7 @@
             <div id="value-status"></div>
           </div>
           <div class="res glass" id="responseData"></div>
+          <div class="reviewresp" id="reviewresponse"></div>
         </div>
         <div class="loader" id="loader">
           <div class="loaderMiniContainer">

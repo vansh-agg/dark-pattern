@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Pixet",
+  "name": "DarkBuster",
   "description": "Detecting dark patterns",
   "version": "0.0.1",
   "action": {
-    "default_title": "Pixet",
+    "default_title": "DarkBuster",
     "default_popup": "index.html"
   },
   "permissions": [],

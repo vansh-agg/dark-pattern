@@ -12,7 +12,6 @@ const runPythonProcess = async () => {
     );
     // console.log(pythonProcess);
     pythonProcess.stdout.on("data", (data) => {
-      console.log("Im here on python stdout");
       console.log(`Python stdout: ${data}`);
       pythonOutput += data.toString();
     });

@@ -303,17 +303,17 @@ open
 								
 									
 										HR
-										02
+										10
 									
 									:
 									
 										MN
-										34
+										14
 									
 									:
 									
 										SC
-										59
+										09
 									
 								
 							
@@ -368,7 +368,7 @@ Close
 
                     Black
                                             
-                            6                            
+                            7                            
                                                                 items                            
                         
                                     
@@ -379,6 +379,72 @@ Close
 
                     Black
                                             
+                            7                            
+                                                                items                            
+                        
+                                    
+
+                            
+                                
+
+
+                    Blue
+                                            
+                            4                            
+                                                                items                            
+                        
+                                    
+                        
+
+                                
+
+
+                    Blue
+                                            
+                            4                            
+                                                                items                            
+                        
+                                    
+
+                            
+                                
+
+
+                    Green
+                                            
+                            3                            
+                                                                items                            
+                        
+                                    
+                        
+
+                                
+
+
+                    Green
+                                            
+                            3                            
+                                                                items                            
+                        
+                                    
+
+                            
+                                
+
+
+                    Grey
+                                            
+                            6                            
+                                                                items                            
+                        
+                                    
+                        
+
+                                
+
+
+                    Grey
+                                            
                             6                            
                                                                 items                            
                         
@@ -388,72 +454,6 @@ Close
                                 
 
 
-                    Blue
-                                            
-                            2                            
-                                                                items                            
-                        
-                                    
-                        
-
-                                
-
-
-                    Blue
-                                            
-                            2                            
-                                                                items                            
-                        
-                                    
-
-                            
-                                
-
-
-                    Green
-                                            
-                            1                            
-                                                                item                            
-                        
-                                    
-                        
-
-                                
-
-
-                    Green
-                                            
-                            1                            
-                                                                item                            
-                        
-                                    
-
-                            
-                                
-
-
-                    Grey
-                                            
-                            4                            
-                                                                items                            
-                        
-                                    
-                        
-
-                                
-
-
-                    Grey
-                                            
-                            4                            
-                                                                items                            
-                        
-                                    
-
-                            
-                                
-
-
                     Multi
                                             
                             1                            
@@ -478,7 +478,7 @@ Close
 
                     Pink
                                             
-                            2                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -489,7 +489,7 @@ Close
 
                     Pink
                                             
-                            2                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -513,6 +513,28 @@ Close
                                             
                             2                            
                                                                 items                            
+                        
+                                    
+
+                            
+                                
+
+
+                    Yellow
+                                            
+                            1                            
+                                                                item                            
+                        
+                                    
+                        
+
+                                
+
+
+                    Yellow
+                                            
+                            1                            
+                                                                item                            
                         
                                     
 Clear All
@@ -536,6 +558,28 @@ Close
 
 
                     33
+                                            
+                            1                            
+                                                                item                            
+                        
+                                    
+
+                            
+                                
+
+
+                    3XL
+                                            
+                            1                            
+                                                                item                            
+                        
+                                    
+                        
+
+                                
+
+
+                    3XL
                                             
                             1                            
                                                                 item                            
@@ -592,7 +636,7 @@ Close
 
                     L
                                             
-                            2                            
+                            8                            
                                                                 items                            
                         
                                     
@@ -603,7 +647,7 @@ Close
 
                     L
                                             
-                            2                            
+                            8                            
                                                                 items                            
                         
                                     
@@ -614,7 +658,7 @@ Close
 
                     M
                                             
-                            7                            
+                            10                            
                                                                 items                            
                         
                                     
@@ -625,7 +669,7 @@ Close
 
                     M
                                             
-                            7                            
+                            10                            
                                                                 items                            
                         
                                     
@@ -636,7 +680,7 @@ Close
 
                     S
                                             
-                            6                            
+                            8                            
                                                                 items                            
                         
                                     
@@ -647,7 +691,7 @@ Close
 
                     S
                                             
-                            6                            
+                            8                            
                                                                 items                            
                         
                                     
@@ -658,7 +702,7 @@ Close
 
                     XL
                                             
-                            3                            
+                            8                            
                                                                 items                            
                         
                                     
@@ -669,7 +713,7 @@ Close
 
                     XL
                                             
-                            3                            
+                            8                            
                                                                 items                            
                         
                                     
@@ -702,8 +746,8 @@ Close
 
                     XXL
                                             
-                            1                            
-                                                                item                            
+                            3                            
+                                                                items                            
                         
                                     
                         
@@ -713,8 +757,8 @@ Close
 
                     XXL
                                             
-                            1                            
-                                                                item                            
+                            3                            
+                                                                items                            
                         
                                     
 Clear All
@@ -752,7 +796,7 @@ Close
 
                     Rs. 0 - 200
                                             
-                            3                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -763,7 +807,7 @@ Close
 
                     Rs. 0 - 200
                                             
-                            3                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -774,7 +818,7 @@ Close
 
                     Rs. 200 - 400
                                             
-                            11                            
+                            15                            
                                                                 items                            
                         
                                     
@@ -785,7 +829,7 @@ Close
 
                     Rs. 200 - 400
                                             
-                            11                            
+                            15                            
                                                                 items                            
                         
                                     
@@ -796,7 +840,7 @@ Close
 
                     Rs. 400 - 600
                                             
-                            3                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -807,8 +851,30 @@ Close
 
                     Rs. 400 - 600
                                             
-                            3                            
+                            5                            
                                                                 items                            
+                        
+                                    
+
+                            
+                                
+
+
+                    Rs. 600 - 800
+                                            
+                            1                            
+                                                                item                            
+                        
+                                    
+                        
+
+                                
+
+
+                    Rs. 600 - 800
+                                            
+                            1                            
+                                                                item                            
                         
                                     
 
@@ -840,7 +906,7 @@ Close
 
                     Rs. 2500 - 3000
                                             
-                            6                            
+                            7                            
                                                                 items                            
                         
                                     
@@ -851,7 +917,7 @@ Close
 
                     Rs. 2500 - 3000
                                             
-                            6                            
+                            7                            
                                                                 items                            
                         
                                     
@@ -931,6 +997,73 @@ Price High to Low
 Add to Wishlist
 
                                 Finders Keepers Black Pumps                            
+
+                
+                                            
+                            96% Off
+                        
+                                                                
+                        -96%
+                    
+                                        
+                        
+                            
+                                                                    
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    
+                                                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+												                                                    New
+                                                
+                            
+                                
+                                                                            
+                                        
+                                            Add to Bag
+                                        
+                                        
+                                                                    
+                                
+                                                                            Add to Wishlist
+                                                                    
+                            
+                                                    
+						
+                                                
+                            
+                                Colors To Hoard Navy Sweatshirt                            
+                        
+                        
+                                                    ₹4,499
+                            
+                                ₹199                                (96% Off)
+                            
+                                                
+                                                
+                    
+                
+            
+
+                                        
+                                            Add to Bag
+                                        
+                                        
+Add to Wishlist
+
+                                Colors To Hoard Navy Sweatshirt                            
 
                 
                                             
@@ -1269,6 +1402,73 @@ Add to Wishlist
 
                 
                                             
+                            98% Off
+                        
+                                                                
+                        -98%
+                    
+                                        
+                        
+                            
+                                                                    
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    
+                                                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+												                                                    New
+                                                
+                            
+                                
+                                                                            
+                                        
+                                            Add to Bag
+                                        
+                                        
+                                                                    
+                                
+                                                                            Add to Wishlist
+                                                                    
+                            
+                                                    
+						
+                                                
+                            
+                                Carrying Glitter Apricot Jumper                            
+                        
+                        
+                                                    ₹6,449
+                            
+                                ₹99                                (98% Off)
+                            
+                                                
+                                                
+                    
+                
+            
+
+                                        
+                                            Add to Bag
+                                        
+                                        
+Add to Wishlist
+
+                                Carrying Glitter Apricot Jumper                            
+
+                
+                                            
                             95% Off
                         
                                                                 
@@ -1604,10 +1804,10 @@ Add to Wishlist
 
                 
                                             
-                            98% Off
+                            96% Off
                         
                                                                 
-                        -98%
+                        -96%
                     
                                         
                         
@@ -1648,12 +1848,12 @@ Add to Wishlist
 						
                                                 
                             
-                                In A Hood Black Shrug                            
+                                Imma Classic Black Sweatshirt                            
                         
                         
-                                                    ₹10,499
+                                                    ₹5,099
                             
-                                ₹199                                (98% Off)
+                                ₹199                                (96% Off)
                             
                                                 
                                                 
@@ -1667,7 +1867,7 @@ Add to Wishlist
                                         
 Add to Wishlist
 
-                                In A Hood Black Shrug                            
+                                Imma Classic Black Sweatshirt                            
 
                 
                                             
@@ -1802,6 +2002,73 @@ Add to Wishlist
 Add to Wishlist
 
                                 Don't Come Half-heartedly Grey Sweatshirt                            
+
+                
+                                            
+                            95% Off
+                        
+                                                                
+                        -95%
+                    
+                                        
+                        
+                            
+                                                                    
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    
+                                                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+												                                                    New
+                                                
+                            
+                                
+                                                                            
+                                        
+                                            Add to Bag
+                                        
+                                        
+                                                                    
+                                
+                                                                            Add to Wishlist
+                                                                    
+                            
+                                                    
+						
+                                                
+                            
+                                Under An Abstract Effect Yellow Sweatshirt                            
+                        
+                        
+                                                    ₹6,299
+                            
+                                ₹315                                (95% Off)
+                            
+                                                
+                                                
+                    
+                
+            
+
+                                        
+                                            Add to Bag
+                                        
+                                        
+Add to Wishlist
+
+                                Under An Abstract Effect Yellow Sweatshirt                            
 
                 
                                             

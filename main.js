@@ -46,6 +46,37 @@ document
       });
   });
 
+document
+  .getElementById("extract-review-form")
+  .addEventListener("submit",function(e){
+    e.preventDefault()
+    const review=document.getElementById("review-input").value
+    const responsebox=document.getElementById("reviewresponse")
+    const loader = document.getElementById("loader");
+    loader.style.display = "block";
+      fetch(`http://localhost:3000/review`,{
+        method:"POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body:JSON.stringify({review:review})
+      })
+      .then((res)=>res.json())
+      .then((data)=>{
+        console.log(data)
+        const output=data
+        responsebox.innerText=output;
+        loader.style.display = "none";
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+        // Hide the loader in case of an error
+        loader.style.display = "none";
+      });
+    
+
+  })
+
 // // Function to parse dark pattern occurrences from the string
 // function parseDarkPatternOccurrences(data) {
 //   // Split the data into lines

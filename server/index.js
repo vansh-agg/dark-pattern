@@ -4,6 +4,7 @@ import cors from "cors";
 import fs from "fs";
 import fileReader from "./file_reader.js";
 import pythonFile from "./pythonCall.js";
+import { spawn } from "child_process";
 
 const app = express();
 
@@ -76,6 +77,22 @@ app.get("/", async (req, res) => {
   // Process the URL and run the model
   await processUrl(url, res);
 });
+app.post("/review",async(req,res)=>{
+  const rev=req.body.review
+  const process = spawn(
+    "python",
+    ["./reviewmodel.py",rev]
+  );
+  const message="";
+  process.stdout.on('data',function(data){
+    console.log(data.toString())
+    res.json(data.toString())
+  })
+  process.stderr.on("data", (data) => {
+    console.error(`Python Error: ${data}`);
+    // console.log("Im here on python error");
+  });
+})
 
 app.listen(3000, () => {
   console.log("Server running on port http://localhost:3000");
