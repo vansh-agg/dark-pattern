@@ -4,35 +4,13 @@ import torch
 import re
 
 model_path = r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\Fine_tuned_models_path"
-reviewmodel_path=r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\bert_reviews"
 # tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
 # model = RobertaForSequenceClassification.from_pretrained("roberta-base")
 tokenizer = BertTokenizer.from_pretrained(model_path)
 model = BertForSequenceClassification.from_pretrained(model_path)
 
-tokenizerreview = BertTokenizer.from_pretrained(reviewmodel_path)
-modelreview = BertForSequenceClassification.from_pretrained(reviewmodel_path)
-
 
 max_seq_length = 512
-
-def predict(text):
-    inputs = tokenizerreview(text, padding=True, truncation=True, max_length=256, return_tensors="pt")
-
-    # Get model output (logits)
-    outputs = modelreview(**inputs)
-
-    probs = outputs['logits'].softmax(1)
-    pred_label_idx = probs.argmax()
-
-    # Now map the predicted class index to the actual class label
-
-    # Since pred_label_idx is a tensor containing a single value (the predicted class index),
-    # the .item() method is used to extract the value as a scalar
-
-    pred_label = model.config.id2label[pred_label_idx.item()]
-
-    return probs, pred_label_idx, pred_label
 
 def preprocess_text(text):
     tokens = tokenizer.tokenize(tokenizer.decode(tokenizer.encode(text, add_special_tokens=True, max_length=max_seq_length, truncation=True)))
