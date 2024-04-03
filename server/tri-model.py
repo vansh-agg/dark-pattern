@@ -1,13 +1,12 @@
-from transformers import RobertaTokenizer, RobertaForSequenceClassification,BertForSequenceClassification,BertTokenizer
+from transformers import RobertaTokenizer, RobertaForSequenceClassification,BertForSequenceClassification,BertTokenizer,XLNetTokenizer,AutoTokenizer,XLNetForSequenceClassification
 from torch.nn.functional import softmax
 import torch
 import re
 
-model_path = r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\Fine_tuned_models_path"
-# tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
-# model = RobertaForSequenceClassification.from_pretrained("roberta-base")
-tokenizer = BertTokenizer.from_pretrained(model_path)
-model = BertForSequenceClassification.from_pretrained(model_path)
+model_path = r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\roberta_fine_tune"
+
+tokenizer = RobertaTokenizer.from_pretrained(model_path)
+model = RobertaForSequenceClassification.from_pretrained(model_path)
 
 
 max_seq_length = 512

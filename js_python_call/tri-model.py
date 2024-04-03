@@ -4,18 +4,18 @@ import torch
 import re
 
 # Paths to the fine-tuned models
-bert_model_path = r"C:\Users\Hp\OneDrive\Desktop\Extiension\fraud-or-not\DPBH_BERT_Fine_Tuned_Model\DPBH_BERT_Fine_Tuned_Model"
-xlnet_model_path = r"C:\Users\Hp\OneDrive\Desktop\Extiension\fraud-or-not\DPBH_XLNet_Fine_Tuned_Model\DPBH_XLNet_Fine_Tuned_Model"
-roberta_model_path = r"C:\Users\Hp\OneDrive\Desktop\Extiension\fraud-or-not\DPBH_RoBERTa_Fine_Tuned_Model\FIne Tuned Model"
+bert_model_path = r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\bert_fine_tune"
+xlnet_model_path = r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\xlnet_fine_tune"
+roberta_model_path = r"C:\Users\Vansh Aggarwal\OneDrive\Pictures\Documents\ML\deep learning\fraud-or-not\public\models\roberta_fine_tune"
 
 # Load models and tokenizers
 bert_tokenizer = BertTokenizer.from_pretrained(bert_model_path)
 bert_model = BertForSequenceClassification.from_pretrained(bert_model_path)
 
-xlnet_tokenizer = XLNetTokenizer.from_pretrained("xlnet-base-cased")
+xlnet_tokenizer = XLNetTokenizer.from_pretrained(xlnet_model_path)
 xlnet_model = XLNetForSequenceClassification.from_pretrained(xlnet_model_path)
 
-roberta_tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
+roberta_tokenizer = RobertaTokenizer.from_pretrained(roberta_model_path)
 roberta_model = RobertaForSequenceClassification.from_pretrained(roberta_model_path)
 
 max_seq_length = 512

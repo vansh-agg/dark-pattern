@@ -303,17 +303,17 @@ open
 								
 									
 										HR
-										10
+										02
 									
 									:
 									
 										MN
-										14
+										34
 									
 									:
 									
 										SC
-										09
+										43
 									
 								
 							
@@ -368,7 +368,7 @@ Close
 
                     Black
                                             
-                            7                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -379,29 +379,7 @@ Close
 
                     Black
                                             
-                            7                            
-                                                                items                            
-                        
-                                    
-
-                            
-                                
-
-
-                    Blue
-                                            
-                            4                            
-                                                                items                            
-                        
-                                    
-                        
-
-                                
-
-
-                    Blue
-                                            
-                            4                            
+                            5                            
                                                                 items                            
                         
                                     
@@ -412,8 +390,8 @@ Close
 
                     Green
                                             
-                            3                            
-                                                                items                            
+                            1                            
+                                                                item                            
                         
                                     
                         
@@ -423,8 +401,8 @@ Close
 
                     Green
                                             
-                            3                            
-                                                                items                            
+                            1                            
+                                                                item                            
                         
                                     
 
@@ -434,7 +412,7 @@ Close
 
                     Grey
                                             
-                            6                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -445,7 +423,7 @@ Close
 
                     Grey
                                             
-                            6                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -478,7 +456,7 @@ Close
 
                     Pink
                                             
-                            5                            
+                            3                            
                                                                 items                            
                         
                                     
@@ -489,7 +467,7 @@ Close
 
                     Pink
                                             
-                            5                            
+                            3                            
                                                                 items                            
                         
                                     
@@ -499,28 +477,6 @@ Close
 
 
                     Red
-                                            
-                            2                            
-                                                                items                            
-                        
-                                    
-                        
-
-                                
-
-
-                    Red
-                                            
-                            2                            
-                                                                items                            
-                        
-                                    
-
-                            
-                                
-
-
-                    Yellow
                                             
                             1                            
                                                                 item                            
@@ -531,7 +487,7 @@ Close
                                 
 
 
-                    Yellow
+                    Red
                                             
                             1                            
                                                                 item                            
@@ -558,28 +514,6 @@ Close
 
 
                     33
-                                            
-                            1                            
-                                                                item                            
-                        
-                                    
-
-                            
-                                
-
-
-                    3XL
-                                            
-                            1                            
-                                                                item                            
-                        
-                                    
-                        
-
-                                
-
-
-                    3XL
                                             
                             1                            
                                                                 item                            
@@ -636,7 +570,7 @@ Close
 
                     L
                                             
-                            8                            
+                            3                            
                                                                 items                            
                         
                                     
@@ -647,7 +581,7 @@ Close
 
                     L
                                             
-                            8                            
+                            3                            
                                                                 items                            
                         
                                     
@@ -658,7 +592,7 @@ Close
 
                     M
                                             
-                            10                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -669,7 +603,7 @@ Close
 
                     M
                                             
-                            10                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -680,7 +614,7 @@ Close
 
                     S
                                             
-                            8                            
+                            6                            
                                                                 items                            
                         
                                     
@@ -691,7 +625,7 @@ Close
 
                     S
                                             
-                            8                            
+                            6                            
                                                                 items                            
                         
                                     
@@ -702,7 +636,7 @@ Close
 
                     XL
                                             
-                            8                            
+                            2                            
                                                                 items                            
                         
                                     
@@ -713,7 +647,7 @@ Close
 
                     XL
                                             
-                            8                            
+                            2                            
                                                                 items                            
                         
                                     
@@ -722,7 +656,7 @@ Close
                                 
 
 
-                    XS
+                    XXL
                                             
                             1                            
                                                                 item                            
@@ -733,32 +667,10 @@ Close
                                 
 
 
-                    XS
+                    XXL
                                             
                             1                            
                                                                 item                            
-                        
-                                    
-
-                            
-                                
-
-
-                    XXL
-                                            
-                            3                            
-                                                                items                            
-                        
-                                    
-                        
-
-                                
-
-
-                    XXL
-                                            
-                            3                            
-                                                                items                            
                         
                                     
 Clear All
@@ -796,7 +708,7 @@ Close
 
                     Rs. 0 - 200
                                             
-                            5                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -807,7 +719,7 @@ Close
 
                     Rs. 0 - 200
                                             
-                            5                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -818,7 +730,7 @@ Close
 
                     Rs. 200 - 400
                                             
-                            15                            
+                            9                            
                                                                 items                            
                         
                                     
@@ -829,7 +741,7 @@ Close
 
                     Rs. 200 - 400
                                             
-                            15                            
+                            9                            
                                                                 items                            
                         
                                     
@@ -839,28 +751,6 @@ Close
 
 
                     Rs. 400 - 600
-                                            
-                            5                            
-                                                                items                            
-                        
-                                    
-                        
-
-                                
-
-
-                    Rs. 400 - 600
-                                            
-                            5                            
-                                                                items                            
-                        
-                                    
-
-                            
-                                
-
-
-                    Rs. 600 - 800
                                             
                             1                            
                                                                 item                            
@@ -871,7 +761,7 @@ Close
                                 
 
 
-                    Rs. 600 - 800
+                    Rs. 400 - 600
                                             
                             1                            
                                                                 item                            
@@ -906,7 +796,7 @@ Close
 
                     Rs. 2500 - 3000
                                             
-                            7                            
+                            4                            
                                                                 items                            
                         
                                     
@@ -917,11 +807,17 @@ Close
 
                     Rs. 2500 - 3000
                                             
-                            7                            
+                            4                            
                                                                 items                            
                         
                                     
 Clear All
+SELECT 1 AS `status`, `e`.`entity_id`, `e`.`attribute_set_id`, `e`.`type_id`, `e`.`created_at`, `e`.`updated_at`, `e`.`sku`, `cat_index`.`position` AS `cat_index_position`, `stock_status_index`.`stock_status` AS `is_salable`, `e`.`name`, `e`.`short_description`, `e`.`price`, `e`.`special_price`, `e`.`special_from_date`, `e`.`special_to_date`, `e`.`small_image`, `e`.`thumbnail`, `e`.`news_from_date`, `e`.`news_to_date`, `e`.`url_key`, `e`.`required_options`, `e`.`image_label`, `e`.`small_image_label`, `e`.`thumbnail_label`, `e`.`msrp_display_actual_price_type`, `e`.`msrp`, `e`.`tax_class_id`, `e`.`price_type`, `e`.`weight_type`, `e`.`price_view`, `e`.`links_purchased_separately`, `e`.`links_exist`, `e`.`size`, `e`.`size_value`, `e`.`eancode`, `e`.`wallet_credit_based_on`, `e`.`wallet_credit_based_on_value`, `e`.`wallet_cash_back`, `e`.`hsn_code`, `e`.`dateofupload`, `e`.`heel_size`, `e`.`heel_size_value`, `e`.`product_color`, `e`.`price_filter`, `e`.`price_filter_value`, `e`.`styles`, `e`.`app_special_price`, `e`.`swatch_image`, `e`.`disable_cod`, `e`.`product_tag`, `price_index`.`price`, `price_index`.`tax_class_id`, `price_index`.`final_price`, IF(price_index.tier_price IS NOT NULL, LEAST(price_index.min_price, price_index.tier_price), price_index.min_price) AS `minimal_price`, `price_index`.`min_price`, `price_index`.`max_price`, `price_index`.`tier_price` FROM `catalog_product_flat_1` AS `e`
+ INNER JOIN `catalog_category_product_index_store1` AS `cat_index` ON cat_index.product_id=e.entity_id AND cat_index.store_id=1 AND cat_index.visibility IN(2, 4) AND cat_index.category_id=1517
+ INNER JOIN `cataloginventory_stock_status` AS `stock_status_index` ON e.entity_id = stock_status_index.product_id AND stock_status_index.website_id = 0 AND stock_status_index.stock_id = 1
+ INNER JOIN `catalog_product_index_price` AS `price_index` ON price_index.entity_id = e.entity_id AND price_index.website_id = '1' AND price_index.customer_group_id = 0
+ INNER JOIN `search_tmp_65fbfff11e16e9_96590845` AS `search_result` ON e.entity_id = search_result.entity_id WHERE (stock_status_index.stock_status = 1) ORDER BY `cat_index_position` ASC, `cat_index`.`position` ASC, `e`.`entity_id` DESC
+ LIMIT 24
 Popular
 Popular
 What's New
@@ -933,10 +829,10 @@ Price High to Low
 
                 
                                             
-                            85% Off
+                            94% Off
                         
                                                                 
-                        -85%
+                        -94%
                     
                                         
                         
@@ -982,7 +878,7 @@ Price High to Low
                         
                                                     ₹7,949
                             
-                                ₹1,192                                (85% Off)
+                                ₹499                                (94% Off)
                             
                                                 
                                                 
@@ -997,73 +893,6 @@ Price High to Low
 Add to Wishlist
 
                                 Finders Keepers Black Pumps                            
-
-                
-                                            
-                            96% Off
-                        
-                                                                
-                        -96%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
-                                Colors To Hoard Navy Sweatshirt                            
-                        
-                        
-                                                    ₹4,499
-                            
-                                ₹199                                (96% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                Colors To Hoard Navy Sweatshirt                            
 
                 
                                             
@@ -1245,73 +1074,6 @@ Add to Wishlist
 						
                                                 
                             
-                                My Wfh Wardrobe Turquoise Hooded Jacket                            
-                        
-                        
-                                                    ₹9,749
-                            
-                                ₹487                                (95% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                My Wfh Wardrobe Turquoise Hooded Jacket                            
-
-                
-                                            
-                            95% Off
-                        
-                                                                
-                        -95%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
                                 Stripe Here Stripe Now Multicolour Jumper                            
                         
                         
@@ -1332,140 +1094,6 @@ Add to Wishlist
 Add to Wishlist
 
                                 Stripe Here Stripe Now Multicolour Jumper                            
-
-                
-                                            
-                            97% Off
-                        
-                                                                
-                        -97%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
-                                Sporty And Cool Blue Sweatshirt                            
-                        
-                        
-                                                    ₹6,949
-                            
-                                ₹199                                (97% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                Sporty And Cool Blue Sweatshirt                            
-
-                
-                                            
-                            98% Off
-                        
-                                                                
-                        -98%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
-                                Carrying Glitter Apricot Jumper                            
-                        
-                        
-                                                    ₹6,449
-                            
-                                ₹99                                (98% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                Carrying Glitter Apricot Jumper                            
 
                 
                                             
@@ -1533,6 +1161,73 @@ Add to Wishlist
 Add to Wishlist
 
                                 Reaching In Five Black Trousers                            
+
+                
+                                            
+                            95% Off
+                        
+                                                                
+                        -95%
+                    
+                                        
+                        
+                            
+                                                                    
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    
+                                                            
+                        
+                    
+                    
+                    
+                        
+                    
+                    
+												                                                    New
+                                                
+                            
+                                
+                                                                            
+                                        
+                                            Add to Bag
+                                        
+                                        
+                                                                    
+                                
+                                                                            Add to Wishlist
+                                                                    
+                            
+                                                    
+						
+                                                
+                            
+                                Check Mate Black And White Trousers                            
+                        
+                        
+                                                    ₹6,099
+                            
+                                ₹305                                (95% Off)
+                            
+                                                
+                                                
+                    
+                
+            
+
+                                        
+                                            Add to Bag
+                                        
+                                        
+Add to Wishlist
+
+                                Check Mate Black And White Trousers                            
 
                 
                                             
@@ -1804,73 +1499,6 @@ Add to Wishlist
 
                 
                                             
-                            96% Off
-                        
-                                                                
-                        -96%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
-                                Imma Classic Black Sweatshirt                            
-                        
-                        
-                                                    ₹5,099
-                            
-                                ₹199                                (96% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                Imma Classic Black Sweatshirt                            
-
-                
-                                            
                             97% Off
                         
                                                                 
@@ -1935,140 +1563,6 @@ Add to Wishlist
 Add to Wishlist
 
                                 Under An Abstract Effect Pink Sweatshirt                            
-
-                
-                                            
-                            97% Off
-                        
-                                                                
-                        -97%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
-                                Don't Come Half-heartedly Grey Sweatshirt                            
-                        
-                        
-                                                    ₹5,749
-                            
-                                ₹199                                (97% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                Don't Come Half-heartedly Grey Sweatshirt                            
-
-                
-                                            
-                            95% Off
-                        
-                                                                
-                        -95%
-                    
-                                        
-                        
-                            
-                                                                    
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                        
-                                    
-                                                            
-                        
-                    
-                    
-                    
-                        
-                    
-                    
-												                                                    New
-                                                
-                            
-                                
-                                                                            
-                                        
-                                            Add to Bag
-                                        
-                                        
-                                                                    
-                                
-                                                                            Add to Wishlist
-                                                                    
-                            
-                                                    
-						
-                                                
-                            
-                                Under An Abstract Effect Yellow Sweatshirt                            
-                        
-                        
-                                                    ₹6,299
-                            
-                                ₹315                                (95% Off)
-                            
-                                                
-                                                
-                    
-                
-            
-
-                                        
-                                            Add to Bag
-                                        
-                                        
-Add to Wishlist
-
-                                Under An Abstract Effect Yellow Sweatshirt                            
 
                 
                                             
@@ -2273,10 +1767,10 @@ Add to Wishlist
 
                 
                                             
-                            97% Off
+                            90% Off
                         
                                                                 
-                        -97%
+                        -90%
                     
                                         
                         
@@ -2317,12 +1811,12 @@ Add to Wishlist
 						
                                                 
                             
-                                She Looks Great In Her Motif Print, Blue, Cropped, Shrug                            
+                                Out For The Chill Pink Sweatshirt                            
                         
                         
-                                                    ₹3,649
+                                                    ₹3,999
                             
-                                ₹99                                (97% Off)
+                                ₹400                                (90% Off)
                             
                                                 
                                                 
@@ -2336,7 +1830,7 @@ Add to Wishlist
                                         
 Add to Wishlist
 
-                                She Looks Great In Her Motif Print, Blue, Cropped, Shrug                            
+                                Out For The Chill Pink Sweatshirt                            
 About
 Terms & Conditions
 Terms & Conditions
